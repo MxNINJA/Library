@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TitleEditText">
+        <attr name="label" format="string"/>
+        <attr name="text" format="string"/>
+        <attr name="help" format="string"/>
+        
+        <attr name="titleColor" format="color"/>
+        <attr name="textColor" format="color"/>
+        <attr name="focusColor" format="color"/>
+        <attr name="nonFocusColor" format="color"/>
+        <attr name="helpColor" format="color"/>
+        
+        <attr name="singleLine" format="boolean"/>
+
+        <attr name="android:inputType"/>
+    </declare-styleable>
+</resources>
